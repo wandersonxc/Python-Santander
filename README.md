@@ -1,7 +1,7 @@
-# Python Santander + Senac Preparação
+# Python Santander
 Repositório com meus estudos de Python:
-- Curso Santander Academy (8h)
-- Preparação para o curso presencial do Senac (Python II - Desenvolvimento Web)
-- Exercícios, projetos e resumo
+- Exercícios
+- Projetos
+- Resumo
 
 Autor: Wanderson Xavier de Carvalho
