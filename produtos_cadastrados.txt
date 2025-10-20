@@ -1,0 +1,4 @@
+Lista de Produtos:
+Nome: Bolsa, Quantidade: 11, Preço: 109.99
+Nome: Tênis, Quantidade: 32, Preço: 200.00
+Nome: Calça Jeans, Quantidade: 20, Preço: 99.99

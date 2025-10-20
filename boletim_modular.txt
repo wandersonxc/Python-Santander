@@ -1,0 +1,12 @@
+Boletim Completo:
+Aluno: Ana - Nota 1: 10.0, Nota 2: 10.0, Média: 10.00, Status: APROVADO
+Aluno: Lucas - Nota 1: 10.0, Nota 2: 10.0, Média: 10.00, Status: APROVADO
+Aluno: Wanderson - Nota 1: 7.0, Nota 2: 8.0, Média: 7.50, Status: APROVADO
+Aluno: Sophia - Nota 1: 7.0, Nota 2: 7.0, Média: 7.00, Status: APROVADO
+Aluno: Lucia - Nota 1: 6.0, Nota 2: 7.0, Média: 6.50, Status: REPROVADO
+
+Resumo da turma:
+Total de Alunos: 5
+Aprovados: 4
+Reprovados: 1
+Média geral da turma: 8.20

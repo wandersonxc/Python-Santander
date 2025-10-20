@@ -1,0 +1,5 @@
+frase = input("Digite uma frase: ")
+substituir = input("Qual palavra você quer substituir? ")
+substituta = input("Por qual palavra você quer substituir? ")
+novaFrase = frase.replace(substituir, substituta)
+print("Frase final:", novaFrase)
